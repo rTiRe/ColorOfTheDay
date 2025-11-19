@@ -1,7 +1,6 @@
 # Table of contents
 
-* [README](README.md)
-* [DoR](dor.md)
+* [DoR](README.md)
 * [TDR](tdr/README.md)
   * [FAQ](tdr/faq.md)
   * [NFR](tdr/nfr.md)

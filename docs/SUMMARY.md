@@ -1,1 +1,4 @@
-Color of the day summary
+# Table of contents
+
+* [README](README.md)
+* [DoR](dor.md)
